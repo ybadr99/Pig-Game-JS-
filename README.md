@@ -21,3 +21,4 @@
 ---
 
 ## Preview
+[live demo](https://yb-pig-game.netlify.app/)
